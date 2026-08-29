@@ -61,7 +61,7 @@ This packet asks whether, for ordinary graded stock already on a rack, that cost
 
 | File | What it is for |
 | --- | --- |
-| [Live demo](https://github.com/GeorgePlattDemo/scan-to-build-review) | One worked example. A purpose arrives as an executable definition. Change material and size until a gate refuses you. That refusal is the point. |
+| [Live demo](https://georgeplattdemo.github.io/Scan-to-Build/) | One worked example. A purpose arrives as an executable definition. Change material and size until a gate refuses you. That refusal is the point. |
 | [`FROM_IDEA_TO_INSTALLED_OBJECT.pdf`](FROM_IDEA_TO_INSTALLED_OBJECT.pdf) | The same sequence in two pages. Page 1 is the user. Page 2 is why a yard could touch the job without writing CAM for it. |
 | [`SEVEN_QUESTIONS.pdf`](SEVEN_QUESTIONS.pdf) | How the yard conversation is currently framed. Them first. Mechanism only after they have spoken. Smallest real test at the close. |
 
