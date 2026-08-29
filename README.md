@@ -66,7 +66,7 @@ This packet asks whether, for ordinary graded stock already on a rack, that cost
 | [`SEVEN_QUESTIONS.pdf`](SEVEN_QUESTIONS.pdf) | How the yard conversation is currently framed. Them first. Mechanism only after they have spoken. Smallest real test at the close. |
 
 Wider architecture, citations, and other open questions:
-https://georgeplattdemo.github.io/scan-to-build-review
+https://github.com/GeorgePlattDemo/scan-to-build-review
 
 Open the demo. Hit a gate. Then decide whether the adjacent increment is this cell, a smaller one, or nothing.
 
