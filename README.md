@@ -47,7 +47,11 @@ In rural France, a 2026 field study took a capable machine to irregular chestnut
 
 > Mallegol, Rohart and Champroy, "The tree dictates the shape: reversing the industrial paradigm in rural areas," *Construction Robotics* 10, article 30 (11 July 2026).
 
-In North Carolina the forest sector produced $25.4 billion in output and about 66,500 direct jobs in 2024. Output rose. Employment fell. Independent yards already have stock, floor, forklifts, saws, and pickup. A lot of the differentiating cut is still pencil, straightedge, and a practiced eye. Material and infrastructure already sit still. Yards already spend on tech. Most of that spend lands on moving generic material faster: POS, ERP, delivery, sometimes an optimizer on a chop line. Almost none of it lands on turning a customer purpose into a part on that floor.
+In North Carolina the forest sector produced $25.4 billion in direct industry output and directly employed about 66,500 people in 2024. Across the sector’s total economic contribution, output rose while employment fell.
+
+Parajuli and Bardon, Economic Contribution of the Forest Sector in North Carolina, 2024, NC State Extension AG-844.
+
+Independent yards already have stock, floor, forklifts, saws, and pickup. A lot of the differentiating cut is still pencil, straightedge, and a practiced eye. Material and infrastructure already sit still. Yards already spend on technology that helps quote, track, optimize, move, and deliver material. The open question is how much of it turns a customer purpose into a resolved part on that same floor.
 
 > Parajuli and Bardon, *Economic Contribution of the Forest Sector in North Carolina, 2024*, NC State Extension AG-844.
 
